@@ -1,0 +1,7 @@
+langchain_openai==0.1.9
+langchain==0.2.5
+langchain_community==0.2.5
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+streamlit==1.36.0
+PyPDF==4.2.0
